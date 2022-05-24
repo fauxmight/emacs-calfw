@@ -1,4 +1,4 @@
-;;; calfw-org.el --- calendar view for org-agenda     -*- coding: utf-8 -*-
+;;; calfw-org.el --- calendar view for org-agenda     -*- coding: utf-8; lexical-binding: t; -*-
 
 ;; Copyright (C) 2011  SAKURAI Masashi
 
